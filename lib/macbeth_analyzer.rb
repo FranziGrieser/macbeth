@@ -27,4 +27,5 @@ end
 
 analyze = MacbethPlay.new
 result = analyze.resolve
+# puts result.count
   
